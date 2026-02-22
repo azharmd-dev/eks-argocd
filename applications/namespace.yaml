@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL:
+    repoURL: https://github.com/azharmd-dev/eks-argocd.git
     targetRevision: main
     path: namespaces
   destination:
